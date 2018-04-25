@@ -5,48 +5,36 @@ nlp study
 
 ## Schedule
 
-| Topic      | Date/Time | Location |   Presentor | 
-|-----------|----------|--------|----------|
-|  |  |  |  |
+| Topic | Presentor | Date/Time | Location | File |
+|-----------|----------|--------|----------|----------|
+| Word Vectors 1 | 안세진 | 18.04.25 11:30 | T-Lounge G회의실 | (cs224n/word2vec_안세진.ipynb) |
+| Word Vectors 2 | 홍석진 |  |  |  |
+| Neural Networks |  |  |  |  |
+| Backpropagation and Project Advice | 송석민 |  |  |  |
+| Dependency Parsing | 김영진 |  |  |  |
+| Recurrent Neural Networks and Language Models | 최혜민 |  |  |  |
+| Vanishing Gradients, Fancy RNNs | 최경아 |  |  |  |
+| Machine Translation, Seq2Seq and Attention | 조수환 |  |  |  |
+| Advanced Attention | 홍준의 |  |  |  |
+| Transformer Networks and CNNs | 박정연 |  |  |  |
+| Coreference Resolution | 지영미 |  |  |  |
+| Tree Recursive Neural Networks and Constituency Parsing | 정다예 |  |  |  |
+| Advanced Architectures and Memory Networks | 홍석진 |  |  |  |
+| Reinforcement Learning for NLP Guest Lecture | 김지희 |  |  |  |
+| Semi-supervised Learning for NLP | 최준근 |  |  |  |
+| Future of NLP Models, Multi-task Learning and QA Systems |  |  |  |  |
 
-
-## Topic
-
-### Text Preprocessing
-
--
-
-### Topic Modeling
-
--
-
-### Embedding
-
--
-
-### Deep Learning - Basic
-
--
-
-### Deep Learning - NLP
-
-- RNN
-- 1D Convolution
-
-### NLP Application
-
-- Question Answering
-- Machine Translation
-- Summary
-- Image Captioning
-- Reinforcement Learning
-
-### NLP Techniques
-
-- Attention
-- CAM
 
 ## Reference
 
-- https://github.com/ski-net/dl_study_with_gluon
+- ratsgo.github.io
+:
+- http://freesearch.pe.kr/archives/category/nlp
+: 
+- https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
+: 
+- https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/11/embedding/
+: Glove와 Word2Vec을 대략적으로 비교해준 포스팅
+
+
 
