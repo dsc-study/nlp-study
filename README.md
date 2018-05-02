@@ -8,7 +8,7 @@ nlp study
 | Topic | Presentor | Date/Time | Location | File |
 |-----------|----------|--------|----------|----------|
 | Word Vectors 1 | 안세진 | 18.04.25 11:30 | T-Lounge G회의실 | [word2_vec_안세진](cs224n/word2vec_안세진.pdf) |
-| Word Vectors 2 | 홍석진 |  |  |  |
+| Word Vectors 2 | 홍석진 | 18.05.02 11:30  | T-Lounge G회의실 | [GloVe_홍석진](cs224n/Lecture3_GloVe_홍석진.pdf) |
 | Neural Networks |  |  |  |  |
 | Backpropagation and Project Advice | 송석민 |  |  |  |
 | Dependency Parsing | 김영진 |  |  |  |
