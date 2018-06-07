@@ -13,7 +13,7 @@ nlp study
 | Backpropagation and Project Advice | 송석민 | 18.05.16 12:00  | T-Lounge H |[BackPropagation_송석민](cs224n/Lecture6_BackPropagation_송석민.pdf) |
 | Dependency Parsing | 김영진 | 18.05.23 11:30 | T-Lounge G | [Depandency_Parsing_김영진](cs224n/Lecture7_Dependency_Parsing_김영진.pdf) |
 | Recurrent Neural Networks and Language Models | 최혜민 | 18.05.30 11:30 | T-Lounge H | [RNN_LM_최혜민](cs224n/Lecture8_RNN_최혜민.pdf) |
-| Vanishing Gradients, Fancy RNNs | 최경아 | 18.06.07 12:00 | 31층 1회의실 | cs224n/Lecture9_LSTM_최경아.pdf |
+| Vanishing Gradients, Fancy RNNs | 최경아 | 18.06.07 12:00 | 31층 1회의실 | (cs224n/Lecture9_LSTM_최경아.pdf) |
 | Machine Translation, Seq2Seq and Attention | 조수환 |  |  |  |
 | Advanced Attention | 홍준의 |  |  |  |
 | Transformer Networks and CNNs | 박정연 |  |  |  |
