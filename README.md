@@ -14,7 +14,7 @@ nlp study
 | Dependency Parsing | 김영진 | 18.05.23 11:30 | T-Lounge G | [Depandency_Parsing_김영진](cs224n/Lecture7_Dependency_Parsing_김영진.pdf) |
 | Recurrent Neural Networks and Language Models | 최혜민 | 18.05.30 11:30 | T-Lounge H | [RNN_LM_최혜민](cs224n/Lecture8_RNN_최혜민.pdf) |
 | Vanishing Gradients, Fancy RNNs | 최경아 | 18.06.07 12:00 | 31층 1회의실 | [LSTM_최경아](cs224n/Lecture9_LSTM_최경아.pdf) |
-| Machine Translation, Seq2Seq and Attention | 조수환 |  |  |  |
+| Machine Translation, Seq2Seq and Attention | 조수환 | 18.06.20 12:00 | T-Lounge G | [MT_Seq2Seq_attention](cs224n/Lecture10_MT_Seq2Seq_Attention_조수환.pdf) |
 | Advanced Attention | 홍준의 |  |  |  |
 | Transformer Networks and CNNs | 박정연 |  |  |  |
 | Coreference Resolution | 지영미 |  |  |  |
