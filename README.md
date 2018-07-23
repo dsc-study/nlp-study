@@ -17,7 +17,7 @@ nlp study
 | Machine Translation, Seq2Seq and Attention | 조수환 | 18.06.20 12:00 | T-Lounge G | [MT_Seq2Seq_Attention_조수환](cs224n/Lecture10_MT_Seq2Seq_Attention_조수환.pdf) |
 | Advanced Attention | 홍준의 |  |  |  |
 | Transformer Networks and CNNs | 박정연 |  |  |  |
-| Coreference Resolution | 지영미 |  |  |  |
+| Coreference Resolution | 지영미 | 18.07.18 | T-Lounge H | [Coreference_지영미](cs224n/Lecture15_Coreference_지영미.pdf) |
 | Tree Recursive Neural Networks and Constituency Parsing | 정다예 |  |  |  |
 | Advanced Architectures and Memory Networks | 홍석진 |  |  |  |
 | Reinforcement Learning for NLP Guest Lecture | 김지희 |  |  |  |
